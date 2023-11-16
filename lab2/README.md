@@ -1,7 +1,6 @@
 Zaimplementuj klasy ImaginaryInt i ImaginaryDouble, które będą dziedziczyć odpowiednio po MyInteger i MyDouble. 
 
-Bazujemy na repozytorium: https://gitlab.com/uj-courses/2023-2024/java/lab2 ;
-  Przypomnij sobie jak skonfigurować repozytorium żeby działało z Bobotem.
+Przypomnij sobie jak skonfigurować repozytorium żeby działało z Bobotem.
 Napisz klasę MyDataFrame, która dzidziczy po  klasie DataFrame 
 Dodaj metodą wypisującą zawartość dataframe do klasy MyDataFrame
   df.print();
